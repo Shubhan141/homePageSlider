@@ -4,7 +4,7 @@ const middle = document.querySelector('.middle'); // The container holding all s
 const sliders = document.querySelectorAll('.slider'); // Get all slider elements
 
 let slideNo = 0; // Track the current slide
-const slideWidth = 800; // Fixed width for each slide
+const slideWidth = 1400; // Fixed width for each slide
 
 // Right arrow click
 rightArrow.addEventListener('click', () => {
